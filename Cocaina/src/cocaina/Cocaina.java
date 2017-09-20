@@ -6,9 +6,7 @@ package cocaina;
  */
 public class Cocaina {
 
-    /**
-     * @param args the command line arguments
-     */
+    Dealer miperrrito= new Dealer();
     public static void main(String[] args) {
         // TODO code application logic here
     }
